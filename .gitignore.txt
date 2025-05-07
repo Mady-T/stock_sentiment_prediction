@@ -1,3 +1,0 @@
-nyt/
-tbs/
-wsj/
